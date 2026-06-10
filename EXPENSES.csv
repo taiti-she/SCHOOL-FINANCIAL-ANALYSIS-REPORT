@@ -1,0 +1,138 @@
+TRANSACTION_ID,DATE,DESCRIPTION,CATEGORY,AMOUNT,NOTES
+1,1/3/2026,Building & Construction,Building Materials,34500,Labour 
+2,1/3/2026,Kitchen Expenses,Food Supplies,80,Onions
+3,1/5/2026,Kitchen Expenses,Food Supplies,150,Oil
+4,1/6/2026,Kitchen Expenses,Food Supplies,320,Sugar
+5,1/6/2026,Kitchen Expenses,Food Supplies,3300,Rice
+6,1/6/2026,Kitchen Expenses,Food Supplies,4500,Cooking Oil
+7,1/6/2026,Kitchen Expenses,Food Supplies,600,Porridge Flour
+8,1/6/2026,Kitchen Expenses,Food Supplies,200,Ndengu
+9,1/6/2026,Learning Materials,Stationery,660,Chalk Gloss
+10,1/6/2026,Learning Materials,Stationery,350,Pens
+11,1/7/2026,Transport Expenses,Fuel,5000,KCB
+12,1/7/2026,Kitchen Expenses,Food Supplies,1750,Maize Flour
+13,1/7/2026,Transport Expenses,Fuel,5000,KCB
+14,1/9/2026,Utilities,Wifi,2000,Wifi
+15,1/9/2026,Kitchen Expenses,Food Supplies,360,Milk
+16,1/9/2026,Kitchen Expenses,Food Supplies,160,Sugar
+17,1/9/2026,Kitchen Expenses,Food Supplies,2400,Porridge Flour
+18,1/9/2026,Maintenance Supplies,Maintenance,2000,Padlocks and Screws
+19,1/9/2026,Learning Materials,Stationery,1200,Books
+20,1/9/2026,Maintenance Supplies,Maintenance,700,Soap
+21,1/10/2026,Maintenance Supplies,Furniture,2500,Labour
+22,1/10/2026,Maintenance Supplies,Furniture,5000,Boards
+23,1/12/2026,Transport Expenses,Fuel,5000,KCB
+24,1/12/2026,Transport Expenses,Fuel,8000,KCH
+25,1/12/2026,Kitchen Expenses,Food Supplies,3300,Sugar
+26,1/12/2026,Learning Materials,Stationery,24000,Diaries
+27,1/12/2026,Building & Construction,Building Materials,5000,Debris
+28,1/12/2026,Building & Construction,Building Materials,10000,Construction Labour
+29,1/12/2026,Rent Expenses,Rent,15000,Rent
+30,1/14/2026,Kitchen Expenses,Food Supplies,200,Milk
+31,1/14/2026,Kitchen Expenses,Food Supplies,7250,Cereals
+32,1/14/2026,Kitchen Expenses,Food Supplies,200,Milk
+33,1/14/2026,Maintenance Supplies,Furniture,9400,Chairs
+34,1/14/2026,Maintenance Supplies,Furniture,0,Lockers
+35,1/14/2026,Maintenance Supplies,Furniture,1000,Labour
+36,1/15/2026,Loans,Loans,400000,Jericho
+37,1/19/2026,Kitchen Expenses,Food Supplies,3400,Rice
+38,1/19/2026,Building & Construction,Building Materials,14000,Windows
+39,1/19/2026,Transport Expenses,Fuel,8000,KCH
+40,1/19/2026,Transport Expenses,Fuel,8000,KCB
+41,1/24/2026,Transport Expenses,Repair & Maintenance,16000,Repairs
+42,1/26/2026,Transport Expenses,Fuel,8000,KCH
+43,1/26/2026,Transport Expenses,Fuel,5000,KCB
+44,1/28/2026,Transport Expenses,Repair & Maintenance,13000,Tires KCB
+45,1/28/2026,Transport Expenses,Fuel,2000,KCB
+46,1/29/2026,Kitchen Expenses,Firewood,9500,Firewood
+47,1/30/2026,Transport Expenses,Fuel,5000,KCB
+48,2/3/2026,Utilities,City Council Licence,9000,City Council Licence
+49,2/3/2026,Transport Expenses,Fuel,10000,KCH
+50,2/3/2026,Kitchen Expenses,Food Supplies,1000,Cabbages
+51,2/3/2026,Kitchen Expenses,Food Supplies,2600,Rice
+52,2/3/2026,Kitchen Expenses,Food Supplies,3200,Sugar
+53,2/3/2026,Kitchen Expenses,Food Supplies,2080,Porridge Flour
+54,2/3/2026,Loans,Loans,100000,Caritas
+55,2/3/2026,Kitchen Expenses,Food Supplies,80,Onions
+56,2/9/2026,Utilities,Wifi,2000,Wifi
+57,2/9/2026,Kitchen Expenses,Food Supplies,120,steelwool
+58,2/9/2026,Kitchen Expenses,Food Supplies,80,Milk
+59,2/9/2026,Learning Materials,Stationery,660,Chalk Gloss
+60,2/9/2026,Learning Materials,School Materials,775,Mentor English 5
+61,2/9/2026,Transport Expenses,Fuel,7000,KCB
+62,2/9/2026,Transport Expenses,Fuel,10000,KCH
+63,2/9/2026,Salaries & Wages,Salaries,206000,Teachers & Staff Salaries
+64,2/16/2026,Transport Expenses,Fuel,8000,KCH
+65,2/16/2026,Transport Expenses,Fuel,5000,KCB
+66,2/16/2026,Transport Expenses,Repair & Maintenance,5000,Repair & Maintenance
+67,2/16/2026,Transport Expenses,Repair & Maintenance,47000,Steering Wheel
+68,2/16/2026,Rent Expenses,Rent,15000,Rent
+69,2/16/2026,Learning Materials,School Materials,1930,Books
+70,2/16/2026,Kitchen Expenses,Food Supplies,680,Cabbages
+71,2/16/2026,Kitchen Expenses,Food Supplies,100,Onions
+72,2/16/2026,Kitchen Expenses,Food Supplies,100,Tomatoes
+73,2/16/2026,Kitchen Expenses,Food Supplies,130,Milk
+74,2/16/2026,Kitchen Expenses,Food Supplies,100,Salt
+75,2/17/2026,Learning Materials,School Materials,2600,Exams
+76,2/17/2026,Learning Materials,School Materials,3200,Lab Re-agents
+77,2/17/2026,Learning Materials,School Materials,200,Lesson plan
+78,2/17/2026,Learning Materials,School Materials,6500,Microscope
+79,2/17/2026,Maintenance Supplies,Maintenance,1500,Water meter + Labour
+80,2/19/2026,Transport Expenses,Fuel,2000,KCB 
+81,2/19/2026,Kitchen Expenses,Food Supplies,400,Cabbage 
+82,2/20/2026,Kitchen Expenses,Food Supplies,500,Maze Flour
+89,2/28/2026,Transport Expenses,Repair & Maintenance,9000,Garage KCH
+83,3/2/2026,Transport Expenses,Fuel,7000,KCH
+84,3/2/2026,Transport Expenses,Fuel,5000,KCB 
+85,3/3/2026,Kitchen Expenses,Food Supplies,1600,Rice
+86,3/3/2026,Kitchen Expenses,Food Supplies,425,Porridge Flour
+87,3/3/2026,Kitchen Expenses,Food Supplies,1000,Ndengu
+88,3/3/2026,Kitchen Expenses,Food Supplies,280,Tomatoes + Onions
+90,3/3/2026,Utilities,Transport,500,Deliveries
+91,3/4/2026,Maintenance Supplies,Maintenance,600,Labour
+92,3/4/2026,Miscallenous,Miscallenous,1200,Count-Me-In 
+93,3/4/2026,Kitchen Expenses,Food Supplies,200,Food Supplies
+94,3/9/2026,Salaries & Wages,Salaries,206000,Teachers & Staff Salaries
+95,3/9/2026,Utilities,Wifi,2000,Wifi
+96,3/9/2026,Transport Expenses,Fuel,10000,KCH 966N
+97,3/9/2026,Transport Expenses,Fuel,7000,KCB 821G
+98,3/10/2026,Transport Expenses,Repair & Maintenance,11000,KCH 966N
+99,3/12/2026,Kitchen Expenses,Food Supplies,900,Cabbages
+100,3/12/2026,Kitchen Expenses,Food Supplies,120,Milk
+101,3/12/2026,Kitchen Expenses,Food Supplies,100,Tomatoes
+102,3/16/2026,Transport Expenses,Fuel,10000,KCH 966N
+103,3/16/2026,Transport Expenses,Fuel,7000,KCB 821G
+104,3/17/2026,Kitchen Expenses,Food Supplies,425,Porridge Flour
+105,3/17/2026,Kitchen Expenses,Food Supplies,3400,Rice
+106,3/17/2026,Kitchen Expenses,Food Supplies,300,Maize Flour
+107,3/19/2026,Kitchen Expenses,Food Supplies,525,5 kgs Beans
+108,3/19/2026,Kitchen Expenses,Food Supplies,120,Milk
+109,3/20/2026,Kitchen Expenses,Food Supplies,1000,Sugar 6kgs
+110,3/23/2026,Transport Expenses,Fuel,10000,KCH 966N
+111,3/23/2026,Transport Expenses,Repair & Maintenance,2000,KCH 966N
+112,3/23/2026,Transport Expenses,Fuel,7000,KCB 821G
+113,3/23/2026,Kitchen Expenses,Food Supplies,350,Ndengu 2kgs
+114,3/23/2026,Kitchen Expenses,Food Supplies,100,Salt
+115,3/25/2026,Maintenance Supplies,Maintenance,380,Soap
+116,3/26/2026,Kitchen Expenses,Food Supplies,120,Milk
+117,3/26/2026,Kitchen Expenses,Food Supplies,665,Porridge Flour 7kgs
+118,3/28/2026,Kitchen Expenses,Food Supplies,320,Wheat Flour
+119,3/28/2026,Kitchen Expenses,Food Supplies,400,Milk
+120,3/28/2026,Kitchen Expenses,Food Supplies,816,Cooking Oil
+121,3/28/2026,Kitchen Expenses,Food Supplies,300,Sugar
+122,3/28/2026,Kitchen Expenses,Food Supplies,160,Sugar
+123,3/28/2026,Kitchen Expenses,Food Supplies,50,Tea Leaves
+124,3/28/2026,Transport Expenses,Repair & Maintenance,3000,KCB 821G
+125,3/30/2026,Transport Expenses,Fuel,4000,KCH 966N
+126,3/30/2026,Transport Expenses,Fuel,4000,KCB 821G
+127,3/30/2026,Kitchen Expenses,Food Supplies,300,Sugar
+128,3/30/2026,Kitchen Expenses,Food Supplies,200,Chocolate
+129,4/7/2026,Transport Expenses,Repair & Maintenance,2600,KCB 821G
+130,4/9/2026,Salaries & Wages,Salaries,206000,Teachers & Staff Salaries
+131,4/17/2026,Building & Construction,Building Materials,5000,Labour
+132,4/16/2026,Transport Expenses,Repair & Maintenance,11000,KCH 966N
+133,4/20/2026,Transport Expenses,Insurance Premium,13601,KCB 821G
+134,4/20/2026,Miscallenous,Miscallenous,2000,MoE
+135,4/20/2026,Transport Expenses,Fuel,2000,KCB 821G
+136,4/22/2026,Transport Expenses,Repair & Maintenance,10000,KCH 966N
+137,5/4/2026,Salaries & Wages,Salaries,206000,Teachers & Staff Salaries
