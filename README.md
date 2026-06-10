@@ -3,6 +3,10 @@ This projesct analyzes the financial performance and sustainability of a small p
 
 The goal of this project was to simulate a real-world business intelligence workflow by transforming raw school financial data into actionable insights and interactive dashboards.
 
+
+Data Privacy Notice: All student names and identifying information were anonymized before publication. The analysis and visualizations are based on anonymized records to protect student privacy while preserving analytical value.
+
+
 ## Business Problem
 The school needed to understand:
 Whether it is financially sustainable.
@@ -41,6 +45,9 @@ Key SQl tasks were creating tables,importing datasets, altering tables, aggregat
 
 ## Power BI Dashboard
 An interactive dashboard was created to visualize executive KPIs(total revenue, total expenses, profit, collection rate, outstanding balance and analytical visualizations(revenue vs expenses, cleared vs uncleared stuents and amounts, expense category breakdown, top fee defaulters and financial sustainability metrics).
+
+<img width="1139" height="638" alt="image" src="https://github.com/user-attachments/assets/5158b64e-32dd-4ce2-94dd-d672c41b10e7" />
+
 
 ## Python Analysis
 Pythton was used for: Profit calculation, cost-per-student analysis, financial ratio calculations, identifying high-risk fee defaulters and additional exploratory analysis. 
