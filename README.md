@@ -99,4 +99,6 @@ The school is currently profitable, above break-even and operationally sustainab
 ## Recommendation 
 Improve fee collection through automated reminders, instalment tracking and digital payment integration.
 
-Monitor salary growth
+Monitor salary growth by optimizing staffing efficiency and aligning hiring with enrolment growth.
+
+Strengthen cash-flow monitoring through monthly financial dashboards, liquidity tracking and arrears reporting.
